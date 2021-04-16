@@ -1,0 +1,4 @@
+TipusCasData,ComarcaCodi,ComarcaDescripcio,MunicipiCodi,MunicipiDescripcio,SexeCodi,SexeDescripcio,TipusCasDescripcio,NumCasos
+28/10/2020,33.0,Segrià ,25120.0,Lleida,0,Home,Sospitós,38
+28/10/2020,33.0,Segrià ,25120.0,Lleida,1,Dona,Positiu PCR,21
+#
